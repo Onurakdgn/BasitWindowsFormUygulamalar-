@@ -1,0 +1,10 @@
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\onura\source\repos\Ders\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\onura\source\repos\Ders\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache

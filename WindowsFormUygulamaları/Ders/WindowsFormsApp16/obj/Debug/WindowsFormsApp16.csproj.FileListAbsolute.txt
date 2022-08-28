@@ -1,0 +1,11 @@
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.AssemblyReference.cache
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form1.resources
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form2.resources
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\onura\source\repos\Ders\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
