@@ -1,6 +1,6 @@
 # WindowsFormUygulamalari
 
-İçerisinde Bolca Basit Windows Uygulaması Bulunmaktadır . Bu Projelerin Hepsi Derste Yapılmıştır
+İçerisinde Bolca Basit Windows Form Uygulaması Bulunmaktadır . Bu Projelerin Hepsi Derste Yapılmıştır
 
 
 # Sırasıyla İçinde Bulunanlar (Ders Den başlamaktadır)
